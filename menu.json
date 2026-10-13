@@ -1,0 +1,422 @@
+[
+    {
+        "name": "Special Chow",
+        "price": 100,
+        "pack": "plate",
+        "category": "Rini's Special",
+        "img": "/img/mix-chow.jpg",
+        "description": "Kan Chow siam zingah chuan a tui ber a ni a, Chow pangngai a kan telh thin zawng zawng chawhpawlh bakah a tih tui nan thil dang chi hrang hrang pawh tel a ni a. Soup pawh a chhawm tel bawk.",
+        "description-en": "This is the most premium of Chow/Chowmein category. Apart from all the from all other chows this dish comes with other special sesoning. The dish also includes free Soup."
+    },
+    {
+        "name": "Special Rice",
+        "price": 100,
+        "pack": "plate",
+        "category": "Rini's Special",
+        "img": "/img/mix-rice.jpg",
+        "description": "Kan Fried Rice siam zingah chuan a tui ber a ni a, Fried Rice pangngai a kan telh thin zawng zawng chawhpawlh bakah a tih tui nan thil dang chi hrang hrang pawh tel a ni a. Soup pawh a chhawm tel bawk.",
+        "description-en": "This is the most premium of Fried Rice category. Apart from all the from all other Fried Rice this dish comes with other special sesoning. The dish also includes free Soup."
+    },
+    {
+        "name": "Vegetable Chow",
+        "price": 50,
+        "pack": "plate",
+        "category": "Chow",
+        "img": "/img/veg-chow.jpg",
+        "description":"Chow kan tih hi Chowmein a ni a. Chow pangngaiah hian Thlai rah/hnah remchang apiang telh thin a ni a - a remchan dan ang zelin carrot, bean, sweet corn, green peas te hi telh a ni tlangpui. Heng bakah hian a remchan chuan thlai dang tel thin a ni bawk.",
+        "description-en": "Chowmein locally knows as chow mix with various vegetables based on availability like carrot, bean, sweet corn, green peas with extra vegetable. Free Soup is included in the dish (however the soup is not 100% vegetrian)"
+    },
+    {
+        "name": "Chicken Chow",
+        "price": 50,
+        "pack": "plate",
+        "category": "Chow",
+        "img": "/img/chicken-chow.jpg",
+        "description":"Chow kan tih hi Chowmein a ni a. Chow pangngaiah hian Thlai rah/hnah remchang apiang telh thin a ni a - a remchan dan ang zelin carrot, bean, sweet corn, green peas te hi telh a ni tlangpui. Heng bakah hian arsa telh a ni. Soup a chhawm bawk e",
+        "description-en": "Chowmein locally knows as chow mix with various vegetables based on availability like carrot, bean, sweet corn, green peas with added chicken. Free Soup is included in the dish"
+    },
+    {
+        "name": "Beef Chow",
+        "price": 50,
+        "pack": "plate",
+        "category": "Chow",
+        "img": "/img/beef-chow.jpg",
+        "description":"Chow kan tih hi Chowmein a ni a. Chow pangngaiah hian Thai rah/hnah remchang apiang telh thin a ni a - a remchan dan ang zelin carrot, bean, sweet corn, green peas te hi telh a ni tlangpui. Heng bakah hian bawng sa telh a ni. Soup a chhawm bawk e.",
+        "description-en": "Chowmein locally knows as chow mix with various vegetables based on availability like carrot, bean, sweet corn, green peas with added beef. Free Soup is included in the dish"
+    },
+    {
+        "name": "Chow Var Satui Leih",
+        "price": 50,
+        "pack": "plate",
+        "category": "Chow",
+        "img": "/img/chow-var.jpg",
+        "description":"Chow kan tih hi Chowmein a ni a. Chow ah hian Satui a hranpa telh a ni a. Satui leih bakah hian Soup a chhawm tel tho bawk.",
+        "description-en": "Chowmein locally knows as chow. This is a local dish chowmein watered with Meat Soup (Meat based on availability, mostly chicken). This also includes free soup."
+    },
+    {
+        "name": "Egg-topped Chow",
+        "price": 70,
+        "pack": "plate",
+        "category": "Chow",
+        "img": "/img/eggtop-chow.jpg",
+        "description":"Chow kan tih hi Chowmein a ni a. Chow pangngaiah hian Thai rah/hnah remchang apiang telh thin a ni a - a remchan dan ang zelin carrot, bean, sweet corn, green peas te hi telh a ni tlangpui. Hemi chungah hian artui kan dah tel a ni a, artui kan hi a hmin leh hmin lo in a siam theih a, sawi a nih hran loh chuan a hmin lo in siam a ni. Soup a chhawm tel bawk.",
+        "description-en": "Chowmein locally knows as chow mix with various vegetables based on availability like carrot, bean, sweet corn, green peas with Fried egg toppings. If you have a preference of half fried or fully fried egg, please say so while ordering. Free Soup is included in the dish"
+    },
+    {
+        "name": "Vegetable Fried Rice",
+        "price": 50,
+        "pack": "plate",
+        "category": "Fried Rice",
+        "img": "/img/veg-rice.jpg",
+        "description": "Fried Rice ah hian a remchan dan ang zelin carrot, bean, sweet corn, green peas te telh thin a ni a. Heng bakah hian Thlai dang a awm remchan chuan telh a ni bawk. Soup a chhawm bawk.",
+        "description-en": "Fried Rice mix with various vegetables based on availability like carrot, bean, sweet corn, green peas with extra vegetable. Free Soup is included in the dish (however the soup is not 100% vegetrian)"
+    },
+    {
+        "name": "Chicken Fried Rice",
+        "price": 50,
+        "pack": "plate",
+        "category": "Fried Rice",
+        "img": "/img/chicken-rice.jpg",
+        "description": "Fried Rice ah hian a remchan dan ang zelin carrot, bean, sweet corn, green peas te telh thin a ni a. Heng bakah hian arsa kan telh a ni. Soup a chhawm bawk.",
+        "description-en": "Fried Rice mix with various vegetables based on availability like carrot, bean, sweet corn, green peas with added chicken. Free Soup is included in the dish (however the soup is not 100% vegetrian)"
+    },
+    {
+        "name": "Beef Fried Rice",
+        "price": 50,
+        "pack": "plate",
+        "category": "Fried Rice",
+        "img": "/img/beef-rice.jpg",
+        "description": "Fried Rice ah hian a remchan dan ang zelin carrot, bean, sweet corn, green peas te telh thin a ni a. Heng bakah hian bawngsa kan telh a ni. Soup a chhawm bawk.",
+        "description-en": "Fried Rice mix with various vegetables based on availability like carrot, bean, sweet corn, green peas with added Beef. Free Soup is included in the dish (however the soup is not 100% vegetrian)"
+    },
+    {
+        "name": "Egg-topped Fried Rice",
+        "price": 70,
+        "pack": "plate",
+        "category": "Fried Rice",
+        "img": "/img/eggtop-rice.jpg",
+        "description": "Fried Rice ah hian a remchan dan ang zelin carrot, bean, sweet corn, green peas te telh thin a ni a. Hemi chungah hian artui kan dah tel a ni a, artui kan hi a hmin leh hmin lo in a siam theih a, sawi a nih hran loh chuan a hmin lo in siam a ni. Soup a chhawm bawk.",
+        "description-en": "Fried rice mix with various vegetables based on availability like carrot, bean, sweet corn, green peas with Fried egg toppings. If you have a preference of half fried or fully fried egg, please say so while ordering. Free Soup is included in the dish"
+    },
+    {
+        "name": "Vegetable Chowmein",
+        "price": 70,
+        "pack": "plate",
+        "category": "Chowmein",
+        "description": "Chowmein hi Soupy Chowmein kan tih thin kha ni a. Chow(Chowmein) pangngai ang tho a ni a, tuiril zawk a siam a ni thung. Thlai rah leh hnah remchan ang zelin pawlh a ni.",
+        "description-en": "Chowmein word locally refers to soupy chowmein, mixed with available vegetables"
+    },
+    {
+        "name": "Chicken Chowmein",
+        "price": 80,
+        "pack": "plate",
+        "category": "Chowmein",
+        "description": "Chowmein hi Soupy Chowmein kan tih thin kha ni a. Chow(Chowmein) pangngai ang tho a ni a, tuiril zawk a siam a ni thung. Thlai rah leh hnah remchang ang leh arsa pawlh tel a ni.",
+        "description-en": "Chowmein word locally refers to soupy chowmein, mixed with available vegetables and chicken"
+    },
+    {
+        "name": "Beef Chowmein",
+        "price": 80,
+        "pack": "plate",
+        "category": "Chowmein",
+        "description": "Chowmein hi Soupy Chowmein kan tih thin kha ni a. Chow(Chowmein) pangngai ang tho a ni a, tuiril zawk a siam a ni thung. Thlai rah leh hnah remchang ang leh bawngsa pawlh tel a ni.",
+        "description-en": "Chowmein word locally refers to soupy chowmein, mixed with available vegetables and beef"
+    },
+    {
+        "name": "Mixed Chowmein",
+        "price": 100,
+        "pack": "plate",
+        "category": "Chowmein",
+        "img": "/img/mix-chowmein.jpg",
+        "description": "Chowmein hi Soupy Chowmein kan tih thin kha ni a. Chow(Chowmein) pangngai ang tho a ni a, tuiril zawk a siam a ni thung. Thlai rah leh hnah remchang ang leh sa chi hrang leh artui kan nen pawlh tel a ni.",
+        "description-en": "Chowmein word locally refers to soupy chowmein, mixed with available vegetables, chiicken, beef, eggs, etc."
+    },
+    {
+        "name": "Steamed Momo",
+        "price": 50,
+        "pack": "plate",
+        "category": "Momo",
+        "img": "/img/steamed-momo.jpg",
+        "description": "Momo hi Dumpling chi khat a ni a. A chhungah hian arsa dah a ni",
+        "description-en": "Steamed Dumpling with chicken inside"
+    },
+    {
+        "name": "Fried Momo",
+        "price": 60,
+        "pack": "plate",
+        "category": "Momo",
+        "img":"/img/fried-momo.jpg",
+        "description": "Momo hi Dumpling chi khat a ni a. A chhungah hian arsa dah a ni. Hei hi tel sa takah thlak a kan a ni.",
+        "description-en": "Steamed Dumpling with chicken inside which is then well fried"
+    },
+    {
+        "name": "Chilli Momo",
+        "price": 80,
+        "pack": "plate",
+        "category": "Momo",
+        "description": "Momo hi Dumpling chi khat a ni a. A chhungah hian arsa dah a ni. Hei hi Hmarcha nen tuihnai tak a bawl a ni.",
+        "description-en": "Steamed Dumpling with chicken inside, whith a nice addition of chilli sauce."
+    },
+    {
+        "name": "Egg Roll",
+        "price": 50,
+        "pack": "piece",
+        "category": "Rolls",
+        "img": "/img/egg-roll.jpg",
+        "description": "Atta/Maida kan leh artui kan Roll a ni a, a chhungah hian bawlhlo chi hrang hrang telh a ni.",
+        "description-en": "Atta/Maida Roti with fried fried egg rolled inside along with some ingredients."
+    },
+    {
+        "name": "Chicken Roll",
+        "price": 70,
+        "pack": "piece",
+        "category": "Rolls",
+        "description": "Atta/Maida kan leh Arsa Roll a ni a, a chhungah hian bawlhlo chi hrang hrang telh a ni.",
+        "description-en": "Atta/Maida Roti with fried fried chicken rolled inside along with some ingredients."
+    },
+    {
+        "name": "Beef Roll",
+        "price": 70,
+        "pack": "piece",
+        "category": "Rolls",
+        "description": "Atta/Maida kan leh Bawngsa Roll a ni a, a chhungah hian bawlhlo chi hrang hrang telh a ni.",
+        "description-en": "Atta/Maida Roti with fried fried tender beef rolled inside along with some ingredients."
+    },
+    {
+        "name": "Egg Chicken Roll",
+        "price": 90,
+        "pack": "piece",
+        "category": "Rolls",
+        "description": "Atta/Maida kan, artui kan leh Arsa Roll a ni a, a chhungah hian bawlhlo chi hrang hrang telh a ni.",
+        "description-en": "Atta/Maida Roti with fried fried egg and chicken rolled inside along with some ingredients."
+    },
+    {
+        "name": "Egg Beef Roll",
+        "price": 90,
+        "pack": "piece",
+        "category": "Rolls",
+        "description": "Atta/Maida kan, artui kan leh Bawngsa Roll a ni a, a chhungah hian bawlhlo chi hrang hrang telh a ni.",
+        "description-en": "Atta/Maida Roti with fried fried egg and beef rolled inside along with some ingredients."
+    },
+    {
+        "name": "Mixed Roll",
+        "price": 100,
+        "pack": "piece",
+        "category": "Rolls",
+        "description": "Atta/Maida kan, Sa chi hrang hrang leh artui kan Roll a ni a, a chhungah hian bawlhlo chi hrang hrang telh a ni.",
+        "description-en": "Atta/Maida Roti with fried fried egg, beef and chicken rolled inside along with some ingredients."
+    },
+    {
+        "name": "Lassi",
+        "price": 20,
+        "pack": "cup",
+        "category": "Cold Drinks",
+        "img": "/img/lassi.jpg",
+        "description": "Bawnghnute atanga siam khawlum lai a in chi vawt tui tak a ni.",
+        "description-en": "Regular lassi. Cold Drink made from Dahi"
+    },
+    {
+        "name": "Cold Coffee",
+        "price": 70,
+        "pack": "cup",
+        "category": "Cold Drinks",
+        "img": "/img/cold-coffee.jpg",
+        "description": "Coffee vawt dai raih mai a siam, vur nen a pawlh, tuihnai tak a ni.",
+        "description-en": "Regular Cold Coffee"
+    },
+    {
+        "name": "Strawberry Milkshake",
+        "price": 70,
+        "pack": "cup",
+        "category": "Cold Drinks",
+        "img": "/img/strawberry-milkshake.jpg",
+        "description":"Bawnghnute, Strawberry leh vur khang chawhpawlh.",
+        "description-en": "Mixture of Diary, Strawberry essence and Ice"
+    },
+    {
+        "name": "Chocolate Milkshake",
+        "price": 70,
+        "pack": "cup",
+        "category": "Cold Drinks",
+        "img": "/img/chocolate-milkshake.jpg",
+        "description":"Bawnghnute, Chocolate leh vur khang chawhpawlh.",
+        "description-en": "Mixture of Diary, chocolate and Ice"
+    },
+    {
+        "name": "Vanilla Milkshake",
+        "price": 70,
+        "pack": "cup",
+        "category": "Cold Drinks",
+        "description":"Bawnghnute, Vanilla leh vur khang chawhpawlh",
+        "description-en": "Mixture of Diary, Vanilla essence and Ice"
+    },
+    {
+        "name": "Alu Bawngsa",
+        "price": 50,
+        "pack": "plate",
+        "category": "Meat",
+        "img": "/img/alu-bawngsa.jpg",
+        "description":"Alu leh Bawngsa siam pawlh, Mizo duh dan tak a siam a ni.",
+        "description-en": "Gravy or Soupy mix of Potatoes and Beef"
+    },
+    {
+        "name": "Sachek",
+        "price": 70,
+        "pack": "plate",
+        "category": "Meat",
+        "img": "/img/sachek.jpg",
+        "description":"Sachek tuihnai leh thianghlim tak a sawngbawl a ni a. Thianghlim tak a sawngbawl a nih avangin a kha ve fuk lo a, rim dang a nam lo bawk.",
+        "description-en":"Instestine of Cattle, cleaned thoroughly and prepared with good bitter taste."
+    },
+    {
+        "name": "Bawng Soup",
+        "price": 100,
+        "pack": "plate",
+        "category": "Meat",
+        "img": "/img/bawng-soup.jpg",
+        "description":"Bawngsa ti tha lai leh ruh atanga siam, bawngsa chhum han leh tui hang tui em em mai.",
+        "description-en": "Specially prepared beef soup made from the meat and bones."
+    },
+    {
+        "name": "Chilli Chicken",
+        "price": 130,
+        "pack": "plate",
+        "category": "Meat",
+        "img": "/img/chilli-chicken.jpg",
+        "description":"Arsa kan leh Hmarcha tui tak a bawl a a ni",
+        "description-en":"Chicken mix with a hot chilli."
+    },
+    {
+        "name": "Chicken Dry Fry",
+        "price": 130,
+        "pack": "plate",
+        "category": "Meat",
+        "description": "Arsa kan ro tui tak a bawl a ni.",
+        "description-en": "A dry fried chicken. However the product is not generally dry"
+    },
+    {
+        "name": "Sawhchiar",
+        "price": 50,
+        "pack": "plate",
+        "category": "Rice Porridge",
+        "img": "/img/sawhchiar.jpg",
+        "description":"Mizo arsa sawhchiar dik tak hmui tui em em a siam a ni",
+        "description-en":"Local porridge"
+    },
+    {
+        "name": "Sanpiau",
+        "price": 50,
+        "pack": "plate",
+        "category": "Rice Porridge",
+        "img": "/img/sanpiau.jpg",
+        "description":"Burma sawhchiar a ni a, papawr leh sa leh thil dang dang telh a ni.",
+        "description-en":"Porridge originated from Myanmar mix differently for local taste"
+    },
+    {
+        "name": "Mix",
+        "price": 50,
+        "pack": "plate",
+        "category": "Rice Porridge",
+        "img": "/img/mix.jpg",
+        "description":"Sawhchiar leh Chow mix a ni tlangpui a, palte a suah chi thil dang nen pawh a mix theih tho bawk.",
+        "description-en":"A mix of either Sanpiau or Sawhchiar with Chow. If you prefer another mix please mention clearly"
+    },
+    {
+        "name": "Alu Paratha",
+        "price": 50,
+        "pack": "piece",
+        "category": "Other",
+        "img": "/img/alu-paratha.jpg",
+        "description":"Alu leh Maida chawhpawlh, tui tak a kan a ni a, bawlhlo dang te pawh telh a ni.",
+        "description-en":"Regular Aloo Paratha slightly different as a signature"
+    },
+    {
+        "name": "Omlette",
+        "price": 50,
+        "pack": "plate",
+        "category": "Other",
+        "description":"Artui kan a bik tak a siam.",
+        "description-en":"Regular plain omlette"
+    },
+    {
+        "name": "Chana",
+        "price": 30,
+        "pack": "plate",
+        "category": "Other",
+        "img": "/img/chana.jpg",
+        "description":"Motor chana hlang hmanga siam a ni.",
+        "description-en":"Regualr cook motor chana"
+    },
+    {
+        "name": "Artui chhum",
+        "price": 20,
+        "pack": "piece",
+        "category": "Other",
+        "img": "/img/artui-chhum.jpg",
+        "description":"Artui chhum hmin.",
+        "description-en":"Hard boiled egg"
+    },
+    {
+        "name": "Paratha",
+        "price": 10,
+        "pack": "piece",
+        "category": "Other",
+        "img": "/img/paratha.jpg",
+        "description":"Puri ti a sawi a ni bawk. Maida nuai sa, tel sa a thlak (deep fry) a ni.",
+        "description-en":"Puri or Paratha deep fried"
+    },
+    {
+        "name": "Chhangban",
+        "price": 10,
+        "pack": "piece",
+        "category": "Other",
+        "img": "/img/chhangban.jpg",
+        "description":"Mizo chhang ti a sawi a ni bawk. Buh/buhban atanga siam sa, kan (deep fry) a ni.",
+        "description-en":"Local taste, sticky bun. Goes really well with paratha"
+    },
+    {
+        "name": "Alu chop",
+        "price": 10,
+        "pack": "piece",
+        "category": "Other",
+        "img": "/img/alu-chop.jpg",
+        "description":"Alu chhum rawt sawm artui a plaster.",
+        "description-en":"Regular Alu chop"
+    },
+    {
+        "name": "Pakora",
+        "price": 10,
+        "pack": "piece",
+        "category": "Other",
+        "img": "/img/pakora.jpg",
+        "description":"Besan pakora a ni a, Pakora dang te aiin a lian in ei a manhla em em a ni.",
+        "description-en": "Besan Pakora, may be a lot bigger than some local variants"
+    },
+    {
+        "name": "Chhangpuar",
+        "price": 10,
+        "pack": "piece",
+        "category": "Other",
+        "img": "/img/chhangpuar.jpg",
+        "description":"Chhangthawp kan puar a ni a, a thlum ve tuk lo va, ama thlumna neih sa (natural sweetness) ang thei tur ber a siam a ni",
+        "description-en":"Deep Fried plastered bread with its natural sweetness"
+    },
+    {
+        "name": "Thingpui",
+        "price": 10,
+        "pack": "cup",
+        "category": "Other",
+        "img": "/img/thingpui.jpg",
+        "description":"Thingpui paw thlum; Kan dawr hi Tea Stall a nih ang ngeiin - uluk taka a rim, a rawng leh tuina ngai pawimawh tak a siam a ni.",
+        "description-en":"Regular sweet tea"
+    },
+    {
+        "name": "Mineral Water",
+        "price": 10,
+        "pack": "bottle",
+        "category": "Other",
+        "img": "/img/mineral-water.jpg",
+        "description":"Tui - bur khat (400 - 500 ml).",
+        "description-en":"A mineral watter bottle (400-500ml) just in case you need it."
+    }
+]
